@@ -1,0 +1,2 @@
+# halftone
+Halftoning in Python.
